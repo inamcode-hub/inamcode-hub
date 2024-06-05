@@ -65,7 +65,7 @@ I would love to connect with you! Feel free to drop me a message or schedule a c
 <p align="center">
   <a href="https://www.inamwebsolutions.com/"><img src="/img/inamwebsolutions.png" height="60px"></a>
   <a href="https://www.dryermaster.com/"><img src="/img/dm.png" height="60px"></a>
-  <a href="https://boltsign.netlify.app/"><img src="/img/bs.png" height="60px"></a>
+
 </p>
 
 ## Visitors Count 👀
