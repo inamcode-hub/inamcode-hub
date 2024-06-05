@@ -91,7 +91,14 @@ I would love to connect with you! Feel free to drop me a message or schedule a c
 ## Trophies 🏆
 
 <p align="left">
-<img width=1000 src="https://github-profile-trophy.vercel.app/?username=your-username&column=7&theme=gruvbox&no-frame=true"/>
+<img width=1000 src="https://github-profile-trophy.vercel.app/?username=inamcode-hub&column=7&theme=gruvbox&no-frame=true"/>
 </p>
+
+## Testimonials 📝 <br>
+
+|                                   **Name**                                    | **Thoughts On Me**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | **Activity**         |
+| :---------------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
+|   [**Muhammad Yahiya**](https://www.linkedin.com/in/shaik-muhammad-yahiya/)   | Inam is truly a master of full-stack development. I had the pleasure of collaborating with him on a GitHub project where he showcased his exceptional skills in designing UI, crafting APIs, and handling all aspects of full-stack development. His attention to detail and commitment to delivering top-notch solutions are commendable. Inam's ability to tackle complex challenges with ease and creativity sets him apart. I highly recommend him for any full-stack project, and I look forward to working with him again in the future.                               | Full-Stack Developer |
+| [**Murali Praveen**](https://www.linkedin.com/in/murali-praveen-k-657b39210/) | It was a pleasure collaborating with Inam on a full-stack project hosted on GitHub. His expertise in UI design, API development, and overall full-stack development was evident throughout the project. Inam's dedication to delivering high-quality work and his proactive approach to problem-solving were truly impressive. He ensured that every aspect of the project was meticulously crafted and executed to perfection. I'm grateful for the opportunity to work with such a talented developer. Thank you, Inam, for your exceptional contributions to our project! | Full-Stack Developer |
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
