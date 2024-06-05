@@ -44,7 +44,7 @@ I would love to connect with you! Feel free to drop me a message or schedule a c
 
 - 📧 Shoot an Official Email: inam6530@hotmail.com
 - 📅 Schedule a Call: [Calendly](https://calendly.com/your-link)
-- 🌐 Find Me on Socials: [LinkedIn](https://www.linkedin.com/in/your-profile) | [Twitter](https://twitter.com/your-profile) | [Instagram](https://www.instagram.com/your-profile)
+- 🌐 Find Me on Socials: [LinkedIn](https://www.linkedin.com/in/inamwebsolutions) | [Twitter](https://x.com/Inamulrehmn) | [Instagram](https://www.instagram.com/)
 
 ## Technical Skills ✔
 
@@ -63,14 +63,14 @@ I would love to connect with you! Feel free to drop me a message or schedule a c
 ## Contributions Space 🎲
 
 <p align="center">
-  <a href="https://www.example.com/"><img src="https://example.com/image1.png" height="60px"></a>
-  <a href="https://www.example.com/"><img src="https://example.com/image2.png" height="60px"></a>
-  <a href="https://www.example.com/"><img src="https://example.com/image3.png" height="60px"></a>
+  <a href="https://www.inamwebsolutions.com/"><img src="/img/inamwebsolutions.png" height="60px"></a>
+  <a href="https://www.dryermaster.com/"><img src="/img/dm.png" height="60px"></a>
+  <a href="https://boltsign.netlify.app/"><img src="/img/bs.png" height="60px"></a>
 </p>
 
 ## Visitors Count 👀
 
-![VisitorCount](https://profile-counter.glitch.me/{your-username}/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/{inamcode-hub}/count.svg)
 
 ## Open Source Projects-Open for Contributions 🥇
 
@@ -84,14 +84,14 @@ I would love to connect with you! Feel free to drop me a message or schedule a c
 ## GitHub Statistics 📃
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" /> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=inamcode-hub&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" /> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=inamcode-hub&theme=tokyonight" />
 </p>
 
 ## Trophies 🏆
 
 <p align="left">
-<img width=1000 src="https://github-profile-trophy.vercel.app/?username=your-username&column=7&theme=gruvbox&no-frame=true"/>
+<img width=1000 src="https://github-profile-trophy.vercel.app/?username=inamcode-hub&column=7&theme=gruvbox&no-frame=true"/>
 </p>
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
