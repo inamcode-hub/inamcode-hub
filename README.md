@@ -77,7 +77,7 @@ I would love to connect with you! Feel free to drop me a message or schedule a c
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/your-username) [![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/your-username)
 | Project | Stars | Forks | Issues | Open PRs | Closed PRs | Participated In |
 |-------------|-------------------|---|---|---|---|---|
-| [**ProjectName1**](https://github.com/your-username/ProjectName1) | ![Stars](https://img.shields.io/github/stars/your-username/ProjectName1?style=flat-square) | ![Forks](https://img.shields.io/github/forks/your-username/ProjectName1?style=flat-square) | ![Issues](https://img.shields.io/github/issues/your-username/ProjectName1?style=flat-square) | ![Open PRs](https://img.shields.io/github/issues-pr/your-username/ProjectName1?style=flat&logo=github) | ![Closed PRs](https://img.shields.io/github/issues-pr-closed/your-username/ProjectName1?style=flat&color=critical&logo=github) | [**EventName**](https://www.example.com/) |
+| [Billing](https://github.com/inamcode-hub/dm_510_billing_ui) | ![Stars](https://img.shields.io/github/stars/inamcode-hub/dm_510_billing_ui?style=flat-square) | ![Forks](https://img.shields.io/github/forks/your-username/ProjectName1?style=flat-square) | ![Issues](https://img.shields.io/github/issues/inamcode-hub/dm_510_billing_ui?style=flat-square) | ![Open PRs](https://img.shields.io/github/issues-pr/inamcode-hub/dm_510_billing_ui?style=flat&logo=github) | ![Closed PRs](https://img.shields.io/github/issues-pr-closed/inamcode-hub/dm_510_billing_ui?style=flat&color=critical&logo=github) | [Repo](https://github.com/inamcode-hub/dm_510_billing_ui)
 
 <a href="https://github.com/your-username"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Profile Animation"></a>
 
@@ -91,7 +91,7 @@ I would love to connect with you! Feel free to drop me a message or schedule a c
 ## Trophies 🏆
 
 <p align="left">
-<img width=1000 src="https://github-profile-trophy.vercel.app/?username=inamcode-hub&column=7&theme=gruvbox&no-frame=true"/>
+<img width=1000 src="https://github-profile-trophy.vercel.app/?username=your-username&column=7&theme=gruvbox&no-frame=true"/>
 </p>
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
