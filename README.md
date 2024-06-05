@@ -7,7 +7,7 @@ or use it. It helps me a lot.
 
 <h1 align="center">WELCOME TO MY GITHUB PROFILE👇 </h1>
 <p align="center">
-<img src="https://your-image-link-here.png" alt="Profile Cover">
+<img src="/img/programmer_coding_banner.png" alt="Profile Cover">
 </p>
   
 <p align="center">
